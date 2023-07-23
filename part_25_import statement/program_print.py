@@ -1,0 +1,1 @@
+print('halo, saya sedang belajar import statement')

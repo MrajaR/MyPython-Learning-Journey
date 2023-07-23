@@ -1,0 +1,1 @@
+nama = 'aku seorang pria yang berkualitas tinggi!!!'

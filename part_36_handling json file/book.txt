@@ -1,0 +1,1 @@
+{"sydmen": {"name": "sydmen", "umur": 22, "hobi": "gymrat"}, "markus": {"name": "markus", "umur": 17, "hobi": "sekiro"}}

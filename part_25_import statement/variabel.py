@@ -1,0 +1,1 @@
+nama = "aku seorang programmer hebat!!!"
